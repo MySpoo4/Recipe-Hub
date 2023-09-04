@@ -4,4 +4,7 @@ Recipe app designed to assist users in searching for recipes based on the ingred
 Sign up for an API key and and App id on the Edamam website.
 <br> Link to the api: https://developer.edamam.com/edamam-recipe-api  (Account required)
 
-
+run to download dependencies
+```
+flutter pub get
+```

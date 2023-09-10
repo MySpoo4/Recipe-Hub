@@ -8,3 +8,6 @@ run to download dependencies
 ```
 flutter pub get
 ```
+
+Video Demo: 
+https://www.youtube.com/watch?v=wI4JcPBzWfc&ab_channel=RichardWan

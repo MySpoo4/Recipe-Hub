@@ -10,4 +10,4 @@ flutter pub get
 ```
 
 Video Demo: 
-https://www.youtube.com/watch?v=wI4JcPBzWfc&ab_channel=RichardWan
+https://www.youtube.com/watch?v=RdMeuVDQfAA&ab_channel=RichardWan 
